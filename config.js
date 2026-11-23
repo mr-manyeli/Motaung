@@ -6,7 +6,7 @@ window.CREATOR_CONFIG = {
   profileImage: 'assets/profile.jpg',
   logoImage: 'assets/motaung-logo.png',
   channelUrl: 'https://www.youtube.com/@motaung.mp4',
-  featured: { title: 'CHANGED', description: 'Music video by Motaung performing CHANGED.© 2026 Manyeli Music.', youtubeUrl: 'https://youtu.be/Yh8MAw6splA?si=-xelP_FryNdEkX6Y' },
+  featured: { title: 'CHANGED (Official Video', description: 'Music video by Motaung performing.© 2026 Manyeli Music.', youtubeUrl: 'https://youtu.be/Yh8MAw6splA?si=-xelP_FryNdEkX6Y' },
   videos: [
     { title: 'Add your next video', type: 'Latest upload', youtubeUrl: '' },
     { title: 'Add another story', type: 'Video essay', youtubeUrl: '' },
