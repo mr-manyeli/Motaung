@@ -2,7 +2,7 @@
 window.CREATOR_CONFIG = {
   name: 'MOTAUNG',
   tagline: 'Short films, big ideas, and a closer look at the world around us.',
-  bio: 'Artist. Producer. Creator.\n\nIndependent artist from South Africa, making music and bringing visions to life. From producing sounds to shooting and directing my own music videos, I’m the creative mind behind it all. No limits, just vision, creativity, and my own way of doing things.\n\nWelcome to my world.',
+  bio: 'Artist. Producer. Creator.\n\nIndependent artist from South Africa, making music and bringing visions to life. From producing sounds to shooting and directing music videos, I’m the creative mind behind it all. No limits, just vision, creativity, and my own way of doing things.\n\nWelcome to my world.',
   profileImage: 'assets/profile.jpg',
   logoImage: 'assets/motaung-logo.png',
   channelUrl: 'https://www.youtube.com/@motaung.mp4',
